@@ -2,6 +2,7 @@ import React from "react";
 import { Meta, Story } from "@storybook/react";
 import StoryLayout from "./StoryLayout";
 import Button from "../src/Button";
+import { ButtonProps } from "../src/Button";
 import { Figma } from "../src/data";
 import { FiArrowRight, FiStar } from "react-icons/fi";
 
@@ -24,10 +25,10 @@ interface Props extends ButtonProps {
 const StoryButton: Story<Props> = (args) => (
   <StoryLayout {...args} className="s[ace-y-2">
     <Button {...args}> Button CTA</Button>
-    <Button {...args} LeadingIcon={<FiStar />}>
+    {/* <Button {...args} LeadingIcon={<FiStar />}>
       {" "}
       Button CTA
-    </Button>
+    </Button> */}
     <Button {...args} TrailingIcon={<FiArrowRight />}>
       Button CTA
     </Button>

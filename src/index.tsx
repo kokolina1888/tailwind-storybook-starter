@@ -7,3 +7,4 @@ export * from "./ColorBox";
 export * from "./Typography";
 export * from "./Badge";
 export * from "./Pagination";
+export * from "./Button";
