@@ -1,5 +1,7 @@
 # Storybook starter with React, Typescript, TailwindCSS and Figma using TSDX
 
+https://nerdcave.com/tailwind-cheat-sheet
+
 ## Demo
 
 https://storybook-course.netlify.app/
