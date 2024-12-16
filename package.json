@@ -63,7 +63,7 @@
     "classnames": "2.3.1",
     "postcss": "7",
     "prettier": "2.4.1",
-    "react-headless-pagination": "0.1.0",
+    "react-headless-pagination": "^1.1.6",
     "react-icons": "4.3.1",
     "react-is": "17.0.1",
     "size-limit": "4.9.2",
