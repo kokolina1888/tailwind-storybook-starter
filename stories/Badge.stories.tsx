@@ -8,6 +8,7 @@ import Badge from "../src/Badge";
 import BadgeProps from "../src/Badge";
 const meta: Meta = {
   title: "Badge",
+  component: Badge,
   parameters: {
     controls: { expanded: true },
     design: {

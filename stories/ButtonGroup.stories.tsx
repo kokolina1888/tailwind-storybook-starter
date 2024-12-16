@@ -7,6 +7,7 @@ import { FiGrid, FiList } from "react-icons/fi";
 
 const meta: Meta = {
   title: "ButtonGroup",
+  component: ButtonGroup,
   parameters: {
     controls: { expanded: true },
     design: {
